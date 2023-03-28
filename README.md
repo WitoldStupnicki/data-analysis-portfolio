@@ -16,7 +16,7 @@ Hello! I'm Witold, a data analyst with a passion for extracting insights from da
 
 3. Finding Heavy Traffic Indicators on I-94: This project analyzes traffic volume data for Interstate 94 to identify patterns and factors contributing to heavy traffic. The analysis covers the impact of time, day of the week, and weather conditions on traffic congestion. [View Repository](https://github.com/WitoldStupnicki/i94-heavy-traffic-indicators)
 
-4. Storytelling Data Visualization on Exchange Rates: In this project, we create a storytelling data visualization of exchange rates between the US Dollar and various other currencies. The visualizations help communicate insights about exchange rate fluctuations and trends effectively. [View Repository](https://github.com/WitoldStupnicki/exchange-rates-data-visualization)
+4. This project focuses on creating a storytelling data visualization of exchange rates between the US Dollar (USD) and Euro (EUR). The goal is to communicate insights about exchange rate fluctuations and trends effectively through visualizations. [View Repository](https://github.com/WitoldStupnicki/exchange-rates-data-visualization)
 
 ## Contact
 
