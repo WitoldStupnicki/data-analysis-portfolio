@@ -10,20 +10,13 @@ Hello! I'm Witold, a data analyst with a passion for extracting insights from da
 
 ## Projects
 
-### 1. Sales Forecasting
-- Predicted future sales for a retail company using time series analysis and machine learning techniques.
-- Technologies used: Python, Pandas, NumPy, Scikit-learn, Matplotlib
-- [View Repository](https://github.com/yourusername/sales-forecasting)
+### 1. Exploring Hacker News Posts: This project compares the popularity and engagement of 'Ask HN' and 'Show HN' posts on Hacker News. The analysis focuses on the number of comments and points received by each post type and identifies the optimal posting times for maximum engagement. [View Repository](https://github.com/WitoldStupnicki/exploring-hacker-news-posts)
 
-### 2. Customer Segmentation
-- Performed clustering analysis on customer data to identify distinct customer segments for targeted marketing.
-- Technologies used: Python, Pandas, Scikit-learn, Seaborn
-- [View Repository](https://github.com/yourusername/customer-segmentation)
+### 2. Exploring eBay Car Sales Data: This project examines a dataset of used car listings on the German eBay website. The analysis focuses on exploring the data, cleaning it, and uncovering insights about the used car market, such as popular car brands, the influence of vehicle age and mileage on price, and the distribution of prices across different brands. [View Repository](https://github.com/WitoldStupnicki/ebay-car-sales-data-analysis)
 
-### 3. A/B Testing Analysis
-- Conducted A/B testing on an e-commerce website's user interface and analyzed the results to inform design decisions.
-- Technologies used: R, Dplyr, ggplot2
-- [View Repository](https://github.com/yourusername/ab-testing-analysis)
+### 3. Finding Heavy Traffic Indicators on I-94: This project analyzes traffic volume data for Interstate 94 to identify patterns and factors contributing to heavy traffic. The analysis covers the impact of time, day of the week, and weather conditions on traffic congestion. [View Repository](https://github.com/WitoldStupnicki/i94-heavy-traffic-indicators)
+
+### 4. Storytelling Data Visualization on Exchange Rates: In this project, we create a storytelling data visualization of exchange rates between the US Dollar and various other currencies. The visualizations help communicate insights about exchange rate fluctuations and trends effectively. [View Repository](https://github.com/WitoldStupnicki/exchange-rates-data-visualization)
 
 ## Contact
 
