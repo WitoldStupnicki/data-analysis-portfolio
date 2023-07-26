@@ -18,7 +18,7 @@ Hello! I'm Witold. In this portfolio, you'll find a collection of my data analys
 
 4. Storytelling Data Visualization on Exchange Rates: This project focuses on creating a storytelling data visualization of exchange rates between the US Dollar (USD) and Euro (EUR). The goal is to communicate insights about exchange rate fluctuations and trends effectively through visualizations. [View Repository](https://github.com/WitoldStupnicki/exchange-rates-data-visualization)
 
-5. Clean and Analyze the Employee Exit Survey: This project explores employee exit surveys of two institutes (DETE and TEFE) in order to determine, what was the role of the length of employment for employees who resigned from the institute due to dissatisfaction. [View Reopository](https://github.com/WitoldStupnicki/clean-and-analyze-employee-exit-surveys/tree/main)
+5. Clean and Analyze the Employee Exit Survey: This project explores employee exit surveys of two institutes (DETE and TEFE) in order to determine, what was the role of the length of employment for employees who resigned from the institute due to dissatisfaction. [View Repository](https://github.com/WitoldStupnicki/clean-and-analyze-employee-exit-surveys/tree/main)
 
 ## Contact
 
