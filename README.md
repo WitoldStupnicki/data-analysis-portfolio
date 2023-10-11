@@ -20,7 +20,7 @@ Hello! I'm Witold. In this portfolio, you'll find a collection of my data analys
 
 5. Clean and Analyze the Employee Exit Survey: This project explores employee exit surveys of two institutes (DETE and TEFE) in order to determine, what was the role of the length of employment for employees who resigned from the institute due to dissatisfaction. [View Repository](https://github.com/WitoldStupnicki/clean-and-analyze-employee-exit-surveys/tree/main)
 
-6. Star Wars Survey: This project explores the survey data in order to assess what are the most viewed and most favourite Star Wars movies, along with answering some additional questions.
+6. Star Wars Survey: This project explores the survey data in order to assess what are the most viewed and most favourite Star Wars movies, along with answering some additional questions. [View Repository](https://github.com/WitoldStupnicki/star-wars-survey/tree/main)
 
 ## Contact
 
